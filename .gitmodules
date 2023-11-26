@@ -1,0 +1,3 @@
+[submodule "eglamor/Minigrid"]
+	path = eglamor/Minigrid
+	url = https://github.com/Farama-Foundation/Minigrid
