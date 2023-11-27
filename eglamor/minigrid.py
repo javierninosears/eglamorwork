@@ -11,7 +11,7 @@ import minigrid
 config_list = [
     {
         'model': 'gpt-3.5-turbo',
-        'api_key': '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',
+        'api_key': 'key',
     },
 ]
 
